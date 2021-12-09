@@ -1,0 +1,209 @@
+.page {
+  z-index: 1;
+  position: relative;
+  width: 100vw; 
+  overflow: hidden;
+}
+
+.box1 {
+  z-index: 2;
+  height: 56.25vw;
+  background: url(./img/psmzx8f8yvy9r6xi0fslpblcklqwuaq89ccc57ffc-4df7-417d-abe9-de6e4275d292.png)
+    100% no-repeat;
+  width: 100vw;
+}
+
+.outer1 {
+  z-index: 3;
+  height: 56.25vw;
+  background: url(./img/psln55utd955npgcwcrqpsuyz144wshcs29a846b1-bead-4c7e-b078-7d30737b9ae5.png)
+    100% no-repeat;
+  width: 100vw;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.main1 {
+  z-index: auto;
+  width: 100vw;
+  height: 46.88vw;
+}
+
+.outer2 {
+  background-color: rgba(0, 0, 0, 1);
+  z-index: 16;
+  height: 4.17vw;
+  width: 100vw;
+}
+
+.bd1 {
+  z-index: auto;
+  width: 70.58vw;
+  height: 2.61vw;
+  margin: 0.78vw 0 0 18.75vw;
+}
+
+.icon1 {
+  z-index: 22;
+  width: 1.72vw;
+  height: 1.72vw;
+  margin-top: 0.47vw;
+}
+
+.info1 {
+  z-index: 23;
+  width: 2.77vw;
+  height: 1.36vw;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.35vw;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.36vw;
+  display: block;
+  margin: 0.62vw 0 0 0.78vw;
+}
+
+.icon2 {
+  z-index: 24;
+  width: 1.78vw;
+  height: 1.78vw;
+  margin: 0.41vw 0 0 3.59vw;
+}
+
+.info2 {
+  z-index: 25;
+  width: 2.82vw;
+  height: 1.36vw;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.35vw;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.36vw;
+  display: block;
+  margin: 0.62vw 0 0 0.83vw;
+}
+
+.section1 {
+  background-color: rgba(255, 234, 0, 0.3);
+  border-radius: 10px;
+  z-index: 18;
+  height: 2.61vw;
+  margin-left: 47.71vw;
+  width: 8.6vw;
+  align-items: center;
+}
+
+.wrap1 {
+  background-color: rgba(255, 234, 0, 0.6);
+  border-radius: 10px;
+  z-index: 19;
+  height: 2.61vw;
+  width: 7.56vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.word1 {
+  z-index: 20;
+  width: 6.52vw;
+  color: rgba(1, 1, 1, 1);
+  font-size: 1.35vw;
+  font-family: SourceHanSansCN-Bold;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 1.36vw;
+  display: block;
+}
+
+.bd2 {
+  z-index: auto;
+  width: 2.71vw;
+  height: 0.11vw;
+  margin: 0.67vw 0 0 21.25vw;
+}
+
+.mod1 {
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 21;
+  width: 2.71vw;
+  height: 0.11vw;
+}
+
+.pic1 {
+  z-index: 13;
+  width: 7.87vw;
+  height: 1.72vw;
+  align-self: flex-start;
+  margin: 12.24vw 0 0 16.25vw;
+}
+
+.img1 {
+  z-index: 14;
+  width: 11.05vw;
+  height: 0.99vw;
+  align-self: flex-start;
+  margin: 1.04vw 0 0 16.25vw;
+}
+
+.outer3 {
+  background-color: rgba(192, 156, 15, 1);
+  z-index: 5;
+  height: 28.96vw;
+  align-self: flex-start;
+  width: 70.47vw;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin: 1.92vw 0 0 12.18vw;
+  padding: 0 0 2.65vw 2.03vw;
+}
+
+.section2 {
+  z-index: auto;
+  width: 39.54vw;
+  height: 23.39vw;
+  justify-content: space-between;
+}
+
+.group1 {
+  z-index: auto;
+  width: 1.05vw;
+  height: 20.11vw;
+  margin-top: 0.32vw;
+}
+
+.label1 {
+  z-index: 9;
+  width: 1.05vw;
+  height: 0.89vw;
+}
+
+.icon3 {
+  z-index: 10;
+  width: 1.05vw;
+  height: 0.89vw;
+  margin-top: 4.59vw;
+}
+
+.label2 {
+  z-index: 11;
+  width: 1.05vw;
+  height: 0.89vw;
+  margin-top: 12.87vw;
+}
+
+.img2 {
+  z-index: 8;
+  width: 37.5vw;
+  height: 23.39vw;
+}
+
+.img3 {
+  z-index: 6;
+  position: absolute;
+  left: 57.71vw;
+  top: 14.12vw;
+  width: 31.72vw;
+  height: 36.52vw;
+}

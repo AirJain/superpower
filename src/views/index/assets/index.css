@@ -1,0 +1,291 @@
+.main-page {
+  z-index: 1;
+  position: relative;
+  width: 1920px;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.mod1 {
+  z-index: 2;
+  height: calc(100vh - 80px);
+  background: url(./img/ps7ki5nuyym5kfieivsma3b6mqbj99fzdo739f4e19-841e-4e8e-bc6d-49af9985f969.png)
+    100% no-repeat;
+  width: 1920px;
+}
+
+.main1 {
+  z-index: 3;
+  height: calc(100vh - 80px);
+  background: url(./img/pskgqfsi7d9mh78uez60wxxu1b3xq96pm1z2df2189c-fe5e-424e-8a46-2f44c72b92ff.png)
+    100% no-repeat;
+  width: 1920px;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.box1 {
+  z-index: auto;
+  width: 1920px;
+  height: 910px;
+}
+
+.mod2 {
+  background-color: rgba(0, 0, 0, 1);
+  z-index: 19;
+  height: 80px;
+  width: 1920px;
+}
+
+.wrap1 {
+  z-index: auto;
+  width: 1355px;
+  height: 50px;
+  margin: 15px 0 0 360px;
+}
+
+.label1 {
+  z-index: 25;
+  width: 33px;
+  height: 33px;
+  margin-top: 9px;
+}
+
+.word1 {
+  z-index: 26;
+  width: 53px;
+  height: 26px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 26px;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 26px;
+  display: block;
+  margin: 12px 0 0 15px;
+}
+
+.label2 {
+  z-index: 27;
+  width: 34px;
+  height: 34px;
+  margin: 8px 0 0 69px;
+}
+
+.txt1 {
+  z-index: 28;
+  width: 54px;
+  height: 26px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 26px;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 26px;
+  display: block;
+  margin: 12px 0 0 16px;
+}
+
+.section1 {
+  background-color: rgba(255, 234, 0, 0.3);
+  border-radius: 10px;
+  z-index: 21;
+  height: 50px;
+  margin-left: 916px;
+  width: 165px;
+  align-items: center;
+}
+
+.group1 {
+  background-color: rgba(255, 234, 0, 0.6);
+  border-radius: 10px;
+  z-index: 22;
+  height: 50px;
+  width: 145px;
+  justify-content: center;
+  align-items: center;
+}
+
+.info1 {
+  z-index: 23;
+  width: 125px;
+  color: rgba(1, 1, 1, 1);
+  font-size: 26px;
+  font-family: SourceHanSansCN-Bold;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 26px;
+  display: block;
+}
+
+.wrap2 {
+  z-index: auto;
+  width: 52px;
+  height: 2px;
+  margin: 13px 0 0 408px;
+}
+
+.bd1 {
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 24;
+  width: 52px;
+  height: 2px;
+}
+
+.mod3 {
+  z-index: 5;
+  height: 710px;
+  background: url(./img/psy87k1x6fps438djrcd1b5fvui86f6opj25ce0763-f80f-4763-b94c-3288338525f5.png)
+    100% no-repeat;
+  align-self: flex-end;
+  width: 924px;
+  margin: 120px 97px 0 0;
+}
+
+.layer1 {
+  z-index: auto;
+  width: 31px;
+  height: 31px;
+  margin: 504px 0 0 46px;
+}
+
+.label3 {
+  z-index: 13;
+  width: 31px;
+  height: 31px;
+}
+
+.layer2 {
+  z-index: auto;
+  width: 93px;
+  height: 22px;
+  margin: 113px 0 0 291px;
+}
+
+.pic1 {
+  z-index: 10;
+  width: 93px;
+  height: 22px;
+}
+
+.layer3 {
+  z-index: auto;
+  width: 31px;
+  height: 31px;
+  margin: -69px 0 0 322px;
+}
+
+.icon1 {
+  z-index: 11;
+  width: 31px;
+  height: 31px;
+}
+
+.layer4 {
+  z-index: auto;
+  width: 165px;
+  height: 22px;
+  margin: -297px 0 0 557px;
+}
+
+.img1 {
+  z-index: 8;
+  width: 165px;
+  height: 22px;
+}
+
+.layer5 {
+  z-index: auto;
+  width: 94px;
+  height: 22px;
+  margin: -265px 0 0 609px;
+}
+
+.img2 {
+  z-index: 6;
+  width: 94px;
+  height: 22px;
+}
+
+.layer6 {
+  z-index: auto;
+  width: 31px;
+  height: 31px;
+  margin: 176px 0 0 624px;
+}
+
+.box2 {
+  z-index: 9;
+  width: 31px;
+  height: 31px;
+  background: url(./img/pspui7tozkmweartby9fa53o3822eee5lxz88833981-8659-431d-9dcd-22ad6209e902.png)
+    0px -1px no-repeat;
+}
+
+.layer7 {
+  z-index: auto;
+  width: 32px;
+  height: 33px;
+  margin: -276px 0 0 639px;
+}
+
+.icon2 {
+  z-index: 7;
+  width: 32px;
+  height: 33px;
+}
+
+.word2 {
+  z-index: 17;
+  position: absolute;
+  left: 416px;
+  top: 313px;
+  width: 878px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 180px;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 180px;
+  display: block;
+}
+
+.info2 {
+  z-index: 16;
+  position: absolute;
+  left: 423px;
+  top: 313px;
+  width: 878px;
+  color: rgba(255, 234, 0, 1);
+  font-size: 180px;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 180px;
+  display: block;
+}
+
+.info3 {
+  z-index: 15;
+  position: absolute;
+  left: 416px;
+  top: 494px;
+  width: 883px;
+  height: 25px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: eryatianwenti;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 25px;
+  display: block;
+}
+
+.pic2 {
+  z-index: 12;
+  position: absolute;
+  left: 865px;
+  top: 750px;
+  width: 190px;
+  height: 22px;
+} 

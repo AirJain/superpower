@@ -1,0 +1,214 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  z-index: 1;
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.box1 {
+  z-index: 2;
+  height: 28.8rem;
+  background: url(./img/psmzx8f8yvy9r6xi0fslpblcklqwuaq89ccc57ffc-4df7-417d-abe9-de6e4275d292.png)
+    100% no-repeat;
+  width: 51.2rem;
+}
+
+.outer1 {
+  z-index: 3;
+  height: 28.8rem;
+  background: url(./img/psln55utd955npgcwcrqpsuyz144wshcs29a846b1-bead-4c7e-b078-7d30737b9ae5.png)
+    100% no-repeat;
+  width: 51.2rem;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.main1 {
+  z-index: auto;
+  width: 51.2rem;
+  height: 24rem;
+}
+
+.outer2 {
+  background-color: rgba(0, 0, 0, 1);
+  z-index: 16;
+  height: 2.134rem;
+  width: 51.2rem;
+}
+
+.bd1 {
+  z-index: auto;
+  width: 36.134rem;
+  height: 1.334rem;
+  margin: 0.4rem 0 0 9.6rem;
+}
+
+.icon1 {
+  z-index: 22;
+  width: 0.88rem;
+  height: 0.88rem;
+  margin-top: 0.24rem;
+}
+
+.info1 {
+  z-index: 23;
+  width: 1.414rem;
+  height: 0.694rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+  margin: 0.32rem 0 0 0.4rem;
+}
+
+.icon2 {
+  z-index: 24;
+  width: 0.907rem;
+  height: 0.907rem;
+  margin: 0.214rem 0 0 1.84rem;
+}
+
+.info2 {
+  z-index: 25;
+  width: 1.44rem;
+  height: 0.694rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+  margin: 0.32rem 0 0 0.427rem;
+}
+
+.section1 {
+  background-color: rgba(255, 234, 0, 0.3);
+  border-radius: 10px;
+  z-index: 18;
+  height: 1.334rem;
+  margin-left: 24.427rem;
+  width: 4.4rem;
+  align-items: center;
+}
+
+.wrap1 {
+  background-color: rgba(255, 234, 0, 0.6);
+  border-radius: 10px;
+  z-index: 19;
+  height: 1.334rem;
+  width: 3.867rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.word1 {
+  z-index: 20;
+  width: 3.334rem;
+  color: rgba(1, 1, 1, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+}
+
+.bd2 {
+  z-index: auto;
+  width: 1.387rem;
+  height: 0.054rem;
+  margin: 0.347rem 0 0 10.88rem;
+}
+
+.mod1 {
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 21;
+  width: 1.387rem;
+  height: 0.054rem;
+}
+
+.pic1 {
+  z-index: 13;
+  width: 4.027rem;
+  height: 0.88rem;
+  align-self: flex-start;
+  margin: 4.134rem 0 0 8.32rem;
+}
+
+.img1 {
+  z-index: 14;
+  width: 5.654rem;
+  height: 0.507rem;
+  align-self: flex-start;
+  margin: 0.534rem 0 0 8.32rem;
+}
+
+.outer3 {
+  background-color: rgba(192, 156, 15, 1);
+  z-index: 5;
+  height: 14.827rem;
+  align-self: flex-start;
+  width: 36.08rem;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin: 0.987rem 0 0 6.24rem;
+  padding: 0 0 1.36rem 1.04rem;
+}
+
+.section2 {
+  z-index: auto;
+  width: 20.24rem;
+  height: 11.974rem;
+  justify-content: space-between;
+}
+
+.group1 {
+  z-index: auto;
+  width: 0.534rem;
+  height: 10.294rem;
+  margin-top: 0.16rem;
+}
+
+.label1 {
+  z-index: 9;
+  width: 0.534rem;
+  height: 0.454rem;
+}
+
+.icon3 {
+  z-index: 10;
+  width: 0.534rem;
+  height: 0.454rem;
+  margin-top: 2.347rem;
+}
+
+.label2 {
+  z-index: 11;
+  width: 0.534rem;
+  height: 0.454rem;
+  margin-top: 6.587rem;
+}
+
+.img2 {
+  z-index: 8;
+  width: 19.2rem;
+  height: 11.974rem;
+}
+
+.img3 {
+  z-index: 6;
+  position: absolute;
+  left: 29.547rem;
+  top: 7.227rem;
+  width: 16.24rem;
+  height: 18.694rem;
+}

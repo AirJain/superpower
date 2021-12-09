@@ -1,0 +1,507 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  z-index: 1;
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.mod1 {
+  z-index: 2;
+  height: 28.8rem;
+  background: url(./img/ps0xms30q7ejblmqahken3sfn06c4pinxbaafa0852-950f-41e7-9381-d009844086e2.png)
+    100% no-repeat;
+  width: 51.2rem;
+}
+
+.box1 {
+  z-index: 3;
+  height: 28.8rem;
+  background: url(./img/psh5tp1zzp6gy8uuwnz5mb8kbfu011o6d6e2dd838-af51-4aea-8ad7-6e38db6a5789.png)
+    100% no-repeat;
+  width: 51.2rem;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.box2 {
+  z-index: auto;
+  width: 51.2rem;
+  height: 23.44rem;
+}
+
+.bd1 {
+  background-color: rgba(0, 0, 0, 1);
+  z-index: 50;
+  height: 2.134rem;
+  width: 51.2rem;
+}
+
+.layer1 {
+  z-index: auto;
+  width: 36.134rem;
+  height: 1.334rem;
+  margin: 0.4rem 0 0 9.6rem;
+}
+
+.icon1 {
+  z-index: 56;
+  width: 0.88rem;
+  height: 0.88rem;
+  margin-top: 0.24rem;
+}
+
+.info1 {
+  z-index: 57;
+  width: 1.414rem;
+  height: 0.694rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+  margin: 0.32rem 0 0 0.4rem;
+}
+
+.icon2 {
+  z-index: 58;
+  width: 0.907rem;
+  height: 0.907rem;
+  margin: 0.214rem 0 0 1.84rem;
+}
+
+.word1 {
+  z-index: 59;
+  width: 1.44rem;
+  height: 0.694rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+  margin: 0.32rem 0 0 0.427rem;
+}
+
+.wrap1 {
+  background-color: rgba(255, 234, 0, 0.3);
+  border-radius: 10px;
+  z-index: 52;
+  height: 1.334rem;
+  margin-left: 24.427rem;
+  width: 4.4rem;
+  align-items: center;
+}
+
+.box3 {
+  background-color: rgba(255, 234, 0, 0.6);
+  border-radius: 10px;
+  z-index: 53;
+  height: 1.334rem;
+  width: 3.867rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.word2 {
+  z-index: 54;
+  width: 3.334rem;
+  color: rgba(1, 1, 1, 1);
+  font-size: 0.693rem;
+  font-family: SourceHanSansCN-Bold;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 0.694rem;
+  display: block;
+}
+
+.layer2 {
+  z-index: auto;
+  width: 1.387rem;
+  height: 0.054rem;
+  margin: 0.347rem 0 0 10.88rem;
+}
+
+.outer1 {
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 55;
+  width: 1.387rem;
+  height: 0.054rem;
+}
+
+.pic1 {
+  z-index: 5;
+  width: 3.974rem;
+  height: 0.88rem;
+  align-self: center;
+  margin-top: 3.467rem;
+}
+
+.pic2 {
+  z-index: 6;
+  width: 6.267rem;
+  height: 0.454rem;
+  align-self: center;
+  margin-top: 0.507rem;
+}
+
+.bd2 {
+  z-index: auto;
+  width: 23.52rem;
+  height: 2.294rem;
+  margin: 2.534rem 0 0 13.947rem;
+}
+
+.pic3 {
+  z-index: 11;
+  width: 2.187rem;
+  height: 2.294rem;
+}
+
+.img1 {
+  z-index: 15;
+  width: 2.347rem;
+  height: 2.24rem;
+  margin: 0.027rem 0 0 4.987rem;
+}
+
+.img2 {
+  z-index: 19;
+  width: 2.187rem;
+  height: 2.294rem;
+  margin-left: 4.72rem;
+}
+
+.img3 {
+  z-index: 23;
+  width: 2.134rem;
+  height: 2.134rem;
+  margin: 0.08rem 0 0 4.96rem;
+}
+
+.bd3 {
+  z-index: auto;
+  width: 23.76rem;
+  height: 0.64rem;
+  margin: 0.667rem 0 0 13.76rem;
+}
+
+.img4 {
+  z-index: 10;
+  width: 2.614rem;
+  height: 0.64rem;
+}
+
+.img5 {
+  z-index: 14;
+  width: 2.027rem;
+  height: 0.64rem;
+  margin-left: 4.907rem;
+}
+
+.pic4 {
+  z-index: 18;
+  width: 3.2rem;
+  height: 0.64rem;
+  margin-left: 4.374rem;
+}
+
+.img6 {
+  z-index: 22;
+  width: 2.267rem;
+  height: 0.64rem;
+  margin-left: 4.374rem;
+}
+
+.bd4 {
+  z-index: auto;
+  width: 23.414rem;
+  height: 2.347rem;
+  margin: 2.134rem 0 0 13.867rem;
+}
+
+.img7 {
+  z-index: 28;
+  width: 2.347rem;
+  height: 2.347rem;
+}
+
+.pic5 {
+  z-index: 32;
+  width: 2.267rem;
+  height: 2.08rem;
+  margin: 0.134rem 0 0 4.96rem;
+}
+
+.pic6 {
+  z-index: 36;
+  width: 2.347rem;
+  height: 2.347rem;
+  margin-left: 4.667rem;
+}
+
+.pic7 {
+  z-index: 40;
+  width: 1.76rem;
+  height: 2.267rem;
+  margin: 0.054rem 0 0 5.067rem;
+}
+
+.bd5 {
+  z-index: auto;
+  width: 26.56rem;
+  height: 0.827rem;
+  margin: 0.64rem 0 0 12.187rem;
+}
+
+.img8 {
+  z-index: 27;
+  width: 5.707rem;
+  height: 0.64rem;
+  margin-top: 0.107rem;
+}
+
+.img9 {
+  z-index: 31;
+  width: 2.4rem;
+  height: 0.64rem;
+  margin: 0.107rem 0 0 3.2rem;
+}
+
+.img10 {
+  z-index: 35;
+  width: 2.72rem;
+  height: 0.64rem;
+  margin: 0.107rem 0 0 4.427rem;
+}
+
+.pic8 {
+  z-index: 39;
+  width: 4.694rem;
+  height: 0.827rem;
+  margin-left: 3.414rem;
+}
+
+.bd6 {
+  z-index: auto;
+  width: 25.014rem;
+  height: 0.8rem;
+  margin: 3.12rem 0 0 13.414rem;
+}
+
+.img11 {
+  z-index: 45;
+  width: 3.28rem;
+  height: 0.64rem;
+  margin-top: 0.08rem;
+}
+
+.img12 {
+  z-index: 46;
+  width: 5.12rem;
+  height: 0.8rem;
+  margin-left: 3.04rem;
+}
+
+.pic9 {
+  z-index: 47;
+  width: 1.76rem;
+  height: 0.64rem;
+  margin: 0.08rem 0 0 3.547rem;
+}
+
+.pic10 {
+  z-index: 48;
+  width: 4.587rem;
+  height: 0.72rem;
+  margin: 0.027rem 0 0 3.68rem;
+}
+
+.word3 {
+  z-index: 9;
+  position: absolute;
+  left: 13.76rem;
+  top: 12.934rem;
+  width: 2.587rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.word4 {
+  z-index: 13;
+  position: absolute;
+  left: 21.28rem;
+  top: 12.934rem;
+  width: 2.027rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.txt1 {
+  z-index: 17;
+  position: absolute;
+  left: 27.68rem;
+  top: 12.934rem;
+  width: 3.2rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.txt2 {
+  z-index: 21;
+  position: absolute;
+  left: 35.28rem;
+  top: 12.934rem;
+  width: 2.24rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.info2 {
+  z-index: 26;
+  position: absolute;
+  left: 12.187rem;
+  top: 18.8rem;
+  width: 5.707rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.txt3 {
+  z-index: 30;
+  position: absolute;
+  left: 21.094rem;
+  top: 18.8rem;
+  width: 2.374rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.info3 {
+  z-index: 34;
+  position: absolute;
+  left: 27.92rem;
+  top: 18.8rem;
+  width: 2.72rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.txt4 {
+  z-index: 38;
+  position: absolute;
+  left: 34.08rem;
+  top: 18.694rem;
+  width: 4.667rem;
+  height: 0.827rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.827rem;
+  display: block;
+}
+
+.word5 {
+  z-index: 41;
+  position: absolute;
+  left: 13.414rem;
+  top: 22.72rem;
+  width: 3.28rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.info4 {
+  z-index: 42;
+  position: absolute;
+  left: 19.734rem;
+  top: 22.64rem;
+  width: 5.12rem;
+  height: 0.8rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.txt5 {
+  z-index: 43;
+  position: absolute;
+  left: 28.4rem;
+  top: 22.72rem;
+  width: 1.76rem;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
+
+.word6 {
+  z-index: 44;
+  position: absolute;
+  left: 33.867rem;
+  top: 22.667rem;
+  width: 4.534rem;
+  color: rgba(255, 234, 0, 1);
+  font-size: 0.8rem;
+  font-family: eryatianwenti;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  display: block;
+}
